@@ -7,39 +7,46 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my Ph.D. from the School of Computer Science and Engineering, [University of New South Wales](https://www.unsw.edu.au/), supervised by [Yulei Sui](https://yuleisui.github.io/) and [Yuekang Li](https://thepatrickstar.github.io/). My research interests include **static program analysis**, **software testing**, and **AI4SE**.
+I am currently a **Postdoctoral Researcher** at the School of Computer Science and Engineering, [University of New South Wales (UNSW Sydney)](https://www.unsw.edu.au/), working with [Prof. Yulei Sui](https://yuleisui.github.io/). I obtained my Ph.D. from UNSW in 2025, supervised by [Prof. Yulei Sui](https://yuleisui.github.io/), [Prof. Yuekang Li](https://thepatrickstar.github.io/), and [Prof. Jingling Xue](https://www.cse.unsw.edu.au/~jingling/). My research interests include **static program analysis**, **software testing**, and **AI4SE**.
 
 ## 🔥 News
 
-- **2026**: \[ICSE'26\] Paper on LLM-driven API specification generation accepted!
-- **2025**: \[TOSEM'25\] Paper on automated aliasing specification generation accepted!
-- **2024**: \[TSE'24\] Paper on cross-language taint analysis published!
-- **2025**: \[ICSE'25\] Co-authored paper recognized as **Distinguished Paper** at ICSE 2025!
+- **2026**: \[NDSS'26\] Paper on fuzz driver enhancement accepted at NDSS (CCF-A, 安全四大)!
+- **2026**: \[ICSE'26\] Paper on LLM-driven API specification generation accepted at ICSE (CCF-A)!
+- **2026**: \[ToN'26\] Paper on fault diagnosis in interconnection networks accepted at IEEE/ACM ToN (CCF-A)!
+- **2025**: \[TOSEM'25\] Paper on automated aliasing specification generation accepted at TOSEM (CCF-A)!
+- **2025**: \[TC'25\] Paper on fault tolerance in interconnection networks accepted at IEEE TC (CCF-A, 通讯作者)!
+- **2025**: \[ICSE'25\] Co-authored paper recognized as **Distinguished Paper Award** at ICSE 2025 (CCF-A)!
 
 ## 📝 Publications
 
-1. **\[ICSE'26\]** **Shuangxiang Kan**, Yuekang Li, Xiao Cheng, Yulei Sui. *SpecGuru: Hierarchical LLM-Driven API Points-to Specification Generation with Self-Validation*, International Conference on Software Engineering (ICSE), 2026, Accepted.
+Please see the [Publications](/publications/) page for the full list.
 
-2. **\[TOSEM'25\]** **Shuangxiang Kan**, Yuekang Li, Weigang He, Zhenchang Xing, Liming Zhu, and Yulei Sui. *Spectre: Automated Aliasing Specifications Generation for Library APIs with Fuzzing*, ACM Transactions on Software Engineering and Methodology (TOSEM), 2025, Accepted.
+## 🎓 Education & Experience
 
-3. **\[TSE'24\]** **Shuangxiang Kan**, Yuhao Gao, Zexin Zhong, and Yulei Sui. *Cross-Language Taint Analysis: Generating Caller-Sensitive Native Code Specification for Java*, IEEE Transactions on Software Engineering (TSE), 2024, 50(6): 1518-1533.
+- **2025.09 – Present**: Postdoctoral Researcher, University of New South Wales, Sydney, Australia
+  - Supervisor: [Prof. Yulei Sui](https://yuleisui.github.io/)
+- **2022.02 – 2025.08**: Ph.D. in Software Engineering, University of New South Wales, Sydney, Australia (QS #19)
+  - Supervisors: [Prof. Yulei Sui](https://yuleisui.github.io/), [Prof. Yuekang Li](https://thepatrickstar.github.io/), [Prof. Jingling Xue](https://www.cse.unsw.edu.au/~jingling/)
+- **2021.07 – 2022.01**: Software Engineer, China Mobile Suzhou R&D Center, China
+- **2018.09 – 2021.06**: M.Eng. in Computer Technology, Soochow University, Suzhou, China
+  - Supervisor: Prof. Jianxi Fan
+- **2014.09 – 2018.06**: B.Sc. in Information and Computing Science, Changshu Institute of Technology, China
 
-4. **\[ICSE'25\]** Chenxi Zhang, Yufei Liang, Tian Tan, Chang Xu, **Shuangxiang Kan**, Yulei Sui, and Yue Li. *Interactive Cross-Language Pointer Analysis for Resolving Native Code in Java Programs*, IEEE/ACM 47th International Conference on Software Engineering (ICSE), 2025, p. 612-612. (**Distinguished Paper** 🏆)
+## 🏆 Honors & Awards
 
-5. **\[TR'23\]** Xueli Sun, Jianxi Fan, **Shuangxiang Kan**, Weibei Fan, and Xiaohua Jia. *Component Reliability of a Class of Regular Networks and Its Applications*, IEEE Transactions on Reliability (TR), 2023, 72(2): 637-650.
-
-6. **\[JIT'20\]** **Shuangxiang Kan**, Jianxi Fan, Baolei Cheng, Xi Wang, Jingya Zhou. *Structure Fault-Tolerance of the Augmented Cube*, Journal of Internet Technology (JIT), 2020, 21(6): 1733-1746.
-
-7. **\[ICCSN'20\]** **Shuangxiang Kan**, Jianxi Fan, Baolei Cheng, Xi Wang. *The Communication Performance of BCDC Data Center Network*, 2020 12th International Conference on Communication Software and Networks (ICCSN), IEEE, 2020: 51-57.
-
-8. **\[JIT'19\]** Guijuan Wang, Jianxi Fan, Yali Lv, Baolei Cheng, **Shuangxiang Kan**. *The Constructive Algorithm of Vertex-Disjoint Paths in the Generalized Hypercube Under Restricted Connectivity*, Journal of Internet Technology (JIT), 2019, 20(6): 1995-2006.
-
-## 🎓 Education
-
-- **2019 – 2024**: Ph.D., School of Computer Science and Engineering, University of New South Wales, Sydney, Australia
-  - Supervised by [Prof. Yulei Sui](https://yuleisui.github.io/) and [Prof. Yuekang Li](https://thepatrickstar.github.io/)
+- Grant Funded Top-Up Scholarship & Tuition Fee Scholarship (Ph.D.)
+- 2020 First-Class Scholarship, Soochow University
+- 2019 Third-Class Scholarship, Soochow University
+- 2018 Second-Class Scholarship, Soochow University
+- 2015–2017 National Encouragement Scholarship (三届连续)
+- 2015–2017 First-Class Scholarship, Changshu Institute of Technology (三届连续)
 
 ## 🌠 Academic Service
 
 - Reviewer, IEEE Transactions on Software Engineering (TSE)
 - Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
+
+## 💻 Teaching
+
+- Teaching Assistant, Software Testing and Quality Assurance (COMP3142), UNSW, Term 3 2024
