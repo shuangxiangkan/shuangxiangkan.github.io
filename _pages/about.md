@@ -9,28 +9,21 @@ redirect_from:
 
 I am currently a **Postdoctoral Researcher** at the School of Computer Science and Engineering, [University of New South Wales (UNSW Sydney)](https://www.unsw.edu.au/), working with [Prof. Yulei Sui](https://yuleisui.github.io/). I obtained my Ph.D. from UNSW in 2025, supervised by [Prof. Yulei Sui](https://yuleisui.github.io/), [Prof. Yuekang Li](https://thepatrickstar.github.io/), and [Prof. Jingling Xue](https://www.cse.unsw.edu.au/~jingling/). My research interests include **static program analysis**, **software testing**, and **AI4SE**.
 
-## 🔥 News
-
-- **2026**: \[NDSS'26\] Paper on fuzz driver enhancement accepted at NDSS (CCF-A, 安全四大)!
-- **2026**: \[ICSE'26\] Paper on LLM-driven API specification generation accepted at ICSE (CCF-A)!
-- **2026**: \[ToN'26\] Paper on fault diagnosis in interconnection networks accepted at IEEE/ACM ToN (CCF-A)!
-- **2025**: \[TOSEM'25\] Paper on automated aliasing specification generation accepted at TOSEM (CCF-A)!
-- **2025**: \[TC'25\] Paper on fault tolerance in interconnection networks accepted at IEEE TC (CCF-A, 通讯作者)!
-- **2025**: \[ICSE'25\] Co-authored paper recognized as **Distinguished Paper Award** at ICSE 2025 (CCF-A)!
-
 ## 📝 Publications
+
+<sup>#</sup> Equal contribution &nbsp;&nbsp; <sup>*</sup> Corresponding author
 
 1. **\[ICSE'26\]** **Shuangxiang Kan**, Yuekang Li, Xiao Cheng, Yulei Sui. *SpecGuru: Hierarchical LLM-Driven API Points-to Specification Generation with Self-Validation*, International Conference on Software Engineering (ICSE), 2026, Accepted. *(CCF-A)*
 
 2. **\[NDSS'26\]** **Shuangxiang Kan**, Xiao Cheng, Yuekang Li. *MUTATO: Enhancing Fuzz Drivers with Adaptive API Option Mutation*, Network and Distributed System Security Symposium (NDSS), 2026, Accepted. *(CCF-A, 安全四大)*
 
-3. **\[ToN'26\]** Xueli Sun, **Shuangxiang Kan\***, Weibei Fan, Jin Qi, Zhenjiang Dong, Jianxi Fan. *A Graph Neural Network Approach for Hybrid Node-Edge Fault Diagnosis in Interconnection Networks under the HPMC\* Model*, IEEE Transactions on Networking, 2026, Accepted. *(CCF-A, 通讯作者)*
+3. **\[ToN'26\]** Xueli Sun, **Shuangxiang Kan**<sup>*</sup>, Weibei Fan, Jin Qi, Zhenjiang Dong, Jianxi Fan. *A Graph Neural Network Approach for Hybrid Node-Edge Fault Diagnosis in Interconnection Networks under the HPMC\* Model*, IEEE Transactions on Networking, 2026, Accepted. *(CCF-A)*
 
 4. **\[TOSEM'25\]** **Shuangxiang Kan**, Yuekang Li, Weigang He, Zhenchang Xing, Liming Zhu, and Yulei Sui. *Spectre: Automated Aliasing Specifications Generation for Library APIs with Fuzzing*, ACM Transactions on Software Engineering and Methodology (TOSEM), 2025, Accepted. *(CCF-A)*
 
-5. **\[TC'25\]** Xueli Sun, **Shuangxiang Kan\***, Jianxi Fan, Weibei Fan, Zhenjiang Dong. *Multi-Component Fault Tolerance and Path Construction in Interconnection Networks*, IEEE Transactions on Computers (TC), 2025, Accepted. *(CCF-A, 通讯作者)*
+5. **\[TC'25\]** Xueli Sun, **Shuangxiang Kan**<sup>*</sup>, Jianxi Fan, Weibei Fan, Zhenjiang Dong. *Multi-Component Fault Tolerance and Path Construction in Interconnection Networks*, IEEE Transactions on Computers (TC), 2025, Accepted. *(CCF-A)*
 
-6. **\[Neurocomputing'25\]** Pengjun Xu, **Shuangxiang Kan**, Jing Jin, Zhoujing Zhang, Yaxin Gu, Bo Zhang, YouLang Zhou. *Multimodal Large Language Models in Medical Research and Clinical Practice: Development, Applications, Challenges and Future*, Neurocomputing, 2025, Accepted. *(SCI 二区, 共同一作)*
+6. **\[Neurocomputing'25\]** Pengjun Xu<sup>#</sup>, **Shuangxiang Kan**<sup>#</sup>, Jing Jin, Zhoujing Zhang, Yaxin Gu, Bo Zhang, YouLang Zhou. *Multimodal Large Language Models in Medical Research and Clinical Practice: Development, Applications, Challenges and Future*, Neurocomputing, 2025, Accepted. *(SCI 二区)*
 
 7. **\[TSE'24\]** **Shuangxiang Kan**, Yuhao Gao, Zexin Zhong, and Yulei Sui. *Cross-Language Taint Analysis: Generating Caller-Sensitive Native Code Specification for Java*, IEEE Transactions on Software Engineering (TSE), 2024, 50(6): 1518-1533. *(CCF-A)*
 
