@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a **Postdoctoral Researcher** at the School of Computer Science and Engineering, [University of New South Wales (UNSW Sydney)](https://www.unsw.edu.au/), working with [Prof. Yulei Sui](https://yuleisui.github.io/). I obtained my Ph.D. from UNSW in 2025, supervised by [Prof. Yulei Sui](https://yuleisui.github.io/), [Prof. Yuekang Li](https://thepatrickstar.github.io/), and [Prof. Jingling Xue](https://www.cse.unsw.edu.au/~jingling/). My research interests include **static program analysis**, **software testing**, and **AI4SE**.
+I am currently a **Postdoctoral Researcher** at the School of Computing and Information Systems, [Singapore Management University (SMU)](https://www.smu.edu.sg/), working with [Prof. Xiaofei Xie](https://xiaofeixie.bitbucket.io/). I obtained my Ph.D. from the University of New South Wales (UNSW Sydney) in 2025, supervised by [Prof. Yulei Sui](https://yuleisui.github.io/) and [Prof. Yuekang Li](https://thepatrickstar.github.io/). My research interests include **static program analysis**, **software testing**, and **AI4SE**.
 
-## 📝 Publications
+## 📝 Publications {#publications}
 
 <sub>(<sup>#</sup> Equal contribution, &nbsp;<sup>*</sup> Corresponding author)</sub>
 
@@ -37,6 +37,6 @@ I am currently a **Postdoctoral Researcher** at the School of Computer Science a
 
 12. **\[JIT'19\]** Guijuan Wang, Jianxi Fan, Yali Lv, Baolei Cheng, **Shuangxiang Kan**. *The Constructive Algorithm of Vertex-Disjoint Paths in the Generalized Hypercube Under Restricted Connectivity*, Journal of Internet Technology (JIT), 2019, 20(6): 1995-2006.
 
-## 💻 Teaching
+## 💻 Teaching {#teaching}
 
 - Teaching Assistant, Software Testing and Quality Assurance (COMP3142), UNSW, Term 3 2024
