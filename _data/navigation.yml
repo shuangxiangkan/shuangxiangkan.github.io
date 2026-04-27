@@ -1,0 +1,7 @@
+# Navigation links in the header
+main:
+  - title: "About"
+    url: /
+
+  - title: "Publications"
+    url: /publications/
