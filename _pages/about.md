@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a **Postdoctoral Researcher** at the School of Computing and Information Systems, [Singapore Management University (SMU)](https://www.smu.edu.sg/), working with [Prof. Xiaofei Xie](https://xiaofeixie.bitbucket.io/). I obtained my Ph.D. from the University of New South Wales (UNSW Sydney) in 2025, supervised by [Prof. Yulei Sui](https://yuleisui.github.io/) and [Prof. Yuekang Li](https://thepatrickstar.github.io/). My research interests include **static program analysis**, **software testing**, and **AI4SE**.
+I am currently a **Postdoctoral Researcher** at the School of Computing and Information Systems, Singapore Management University (SMU), working with [Prof. Xiaofei Xie](https://xiaofeixie.bitbucket.io/). I obtained my Ph.D. from the University of New South Wales (UNSW Sydney) in 2025, supervised by [Prof. Yulei Sui](https://yuleisui.github.io/) and [Prof. Yuekang Li](https://thepatrickstar.github.io/). My research interests include **static program analysis**, **software testing**, and **AI4SE**.
 
 ## 📝 Publications {#publications}
 
