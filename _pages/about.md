@@ -17,7 +17,7 @@ I am currently a **Postdoctoral Researcher** at the School of Computer Science a
 
 2. **\[NDSS'26\]** **Shuangxiang Kan**, Xiao Cheng, Yuekang Li. *MUTATO: Enhancing Fuzz Drivers with Adaptive API Option Mutation*, Network and Distributed System Security Symposium (NDSS), 2026, Accepted. *(CCF-A, 安全四大)*
 
-3. **\[ToN'26\]** Xueli Sun, **Shuangxiang Kan**<sup>*</sup>, Weibei Fan, Jin Qi, Zhenjiang Dong, Jianxi Fan. *A Graph Neural Network Approach for Hybrid Node-Edge Fault Diagnosis in Interconnection Networks under the HPMC\* Model*, IEEE Transactions on Networking, 2026, Accepted. *(CCF-A)*
+3. **\[ToN'26\]** Xueli Sun, **Shuangxiang Kan**<sup>*</sup>, Weibei Fan, Jin Qi, Zhenjiang Dong, Jianxi Fan. <em>A Graph Neural Network Approach for Hybrid Node-Edge Fault Diagnosis in Interconnection Networks under the HPMC* Model</em>, IEEE Transactions on Networking, 2026, Accepted. *(CCF-A)*
 
 4. **\[TOSEM'25\]** **Shuangxiang Kan**, Yuekang Li, Weigang He, Zhenchang Xing, Liming Zhu, and Yulei Sui. *Spectre: Automated Aliasing Specifications Generation for Library APIs with Fuzzing*, ACM Transactions on Software Engineering and Methodology (TOSEM), 2025, Accepted. *(CCF-A)*
 
