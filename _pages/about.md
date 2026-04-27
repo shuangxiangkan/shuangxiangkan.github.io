@@ -22,31 +22,6 @@ I am currently a **Postdoctoral Researcher** at the School of Computer Science a
 
 Please see the [Publications](/publications/) page for the full list.
 
-## 🎓 Education & Experience
-
-- **2025.09 – Present**: Postdoctoral Researcher, University of New South Wales, Sydney, Australia
-  - Supervisor: [Prof. Yulei Sui](https://yuleisui.github.io/)
-- **2022.02 – 2025.08**: Ph.D. in Software Engineering, University of New South Wales, Sydney, Australia (QS #19)
-  - Supervisors: [Prof. Yulei Sui](https://yuleisui.github.io/), [Prof. Yuekang Li](https://thepatrickstar.github.io/), [Prof. Jingling Xue](https://www.cse.unsw.edu.au/~jingling/)
-- **2021.07 – 2022.01**: Software Engineer, China Mobile Suzhou R&D Center, China
-- **2018.09 – 2021.06**: M.Eng. in Computer Technology, Soochow University, Suzhou, China
-  - Supervisor: Prof. Jianxi Fan
-- **2014.09 – 2018.06**: B.Sc. in Information and Computing Science, Changshu Institute of Technology, China
-
-## 🏆 Honors & Awards
-
-- Grant Funded Top-Up Scholarship & Tuition Fee Scholarship (Ph.D.)
-- 2020 First-Class Scholarship, Soochow University
-- 2019 Third-Class Scholarship, Soochow University
-- 2018 Second-Class Scholarship, Soochow University
-- 2015–2017 National Encouragement Scholarship (三届连续)
-- 2015–2017 First-Class Scholarship, Changshu Institute of Technology (三届连续)
-
-## 🌠 Academic Service
-
-- Reviewer, IEEE Transactions on Software Engineering (TSE)
-- Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
-
 ## 💻 Teaching
 
 - Teaching Assistant, Software Testing and Quality Assurance (COMP3142), UNSW, Term 3 2024
