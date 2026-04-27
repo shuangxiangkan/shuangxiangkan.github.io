@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com.au/citations?hl=en&user=dvBwVQMAAAAJ"
   inspire-hep      :
   impactstory      :
   orcid            :
