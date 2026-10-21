@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a **Research Scientist** at the School of Computing and Information Systems, Singapore Management University (SMU), working with [Prof. Xiaofei Xie](https://xiaofeixie.bitbucket.io/). I obtained my Ph.D. from the University of New South Wales (UNSW Sydney) in 2025, supervised by [Prof. Yulei Sui](https://yuleisui.github.io/) and [Prof. Yuekang Li](https://thepatrickstar.github.io/). My research interests include **static program analysis**, **software testing**, and **AI4SE**.
+I am currently a **Research Scientist** at the School of Computing and Information Systems, Singapore Management University (SMU), working with [Prof. Xiaofei Xie](https://xiaofeixie.bitbucket.io/). I obtained my Ph.D. from the University of New South Wales (UNSW Sydney) in 2025, supervised by [Prof. Yulei Sui](https://yuleisui.github.io/) and [Prof. Yuekang Li](https://thepatrickstar.github.io/). My research interests include **static program analysis**, **software testing**, **software security**, **cybersecurity**, and **AI4SE**.
 
 ## 📝 Publications {#publications}
 
@@ -72,3 +72,7 @@ I am currently a **Research Scientist** at the School of Computing and Informati
 ## 💻 Teaching {#teaching}
 
 - Teaching Assistant, Software Testing and Quality Assurance (COMP3142), UNSW, Term 3 2024
+
+## 🛡️ Vulnerability Discovery {#vulnerabilities}
+
+I have discovered **500+ vulnerabilities**, of which **300+ have been fixed**.
