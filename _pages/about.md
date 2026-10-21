@@ -13,7 +13,7 @@ I am currently a **Research Scientist** at the School of Computing and Informati
 
 <span class="publication-legend">(<sup class="author-note">#</sup> Equal contribution, &nbsp;<sup class="author-note">*</sup> Corresponding author)</span>
 
-1. **\[ICSE'27, CCF-A, CORE-A\*\]** **Seed Patches to CodeQL Queries: Compositional Synthesis with Proof-of-Concept Validation**<br>
+1. **\[ICSE'27, CCF-A\]** **Seed Patches to CodeQL Queries: Compositional Synthesis with Proof-of-Concept Validation**<br>
     Weigang He<sup class="author-note">\#</sup>, Xiao Cheng<sup class="author-note">\#</sup>, **Shuangxiang Kan**<sup class="author-note">\*</sup>, Wei Li, Xingrui Yu, Ivor Tsang, Yulei Sui.<br>
     International Conference on Software Engineering (ICSE), 2027.
 
